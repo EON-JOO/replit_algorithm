@@ -18,3 +18,5 @@ for i in range(len(val) - 1):
     break
 
 print(res)
+
+# 교재 답안
