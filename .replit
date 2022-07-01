@@ -1,2 +1,2 @@
 language = "python3"
-run="python Q8문자열재정렬.py"
+run="python Q9문자열압축.py"
