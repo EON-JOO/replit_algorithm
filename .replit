@@ -1,2 +1,4 @@
 language = "python3"
-run="python 5-2큐예제.py"
+run="python Q10자물쇠와열쇠.py"
+
+# 5-3재귀함수예제
