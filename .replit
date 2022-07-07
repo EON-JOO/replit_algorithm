@@ -1,2 +1,2 @@
 language = "python3"
-run="python 5-6인접행렬방식예제.py"
+run="python 5-7인접리스트방식예제.py"
