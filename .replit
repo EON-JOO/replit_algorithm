@@ -1,2 +1,2 @@
 language = "python3"
-run="python Q11뱀.py"
+run="python Q15특정거리의도시찾기.py"
