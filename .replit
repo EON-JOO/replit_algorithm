@@ -1,2 +1,2 @@
 language = "python3"
-run="python 6-1선택정렬2.py"
+run="python 6-3삽입정렬.py"
