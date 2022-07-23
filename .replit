@@ -1,2 +1,2 @@
 language = "python3"
-run="python 6-3삽입정렬.py"
+run="python Q17경쟁적전염.py"
